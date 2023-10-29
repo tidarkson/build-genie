@@ -1,0 +1,111 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "image": "./images/browser.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "Web Development",
+            "CTA": "Read More"
+        },
+        {
+            "id": 2,
+            "image": "./images/marketing.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "Digital Marketing",
+            "CTA": "Read More"
+        },
+        {
+            "id": 3,
+            "image": "./images/server.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "SaaS Products",
+            "CTA": "Read More"
+        },
+        {
+            "id": 4,
+            "image": "./images/app.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "Apps Developmment",
+            "CTA": "Read More"
+        },
+        {
+            "id": 5,
+            "image": "./images/search.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "SEO Services",
+            "CTA": "Read More"
+        },
+        {
+            "id": 6,
+            "image": "./images/analytics.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque repellendus minima reiciendis nobis dolore obcaecati.",
+            "tagline": "Data Analysis",
+            "CTA": "Read More"
+        }
+    ],
+
+
+    "pricing": [
+        {
+            "id": 1,
+            "title": "Free Plan",
+            "image": "./images/articles.png",
+            "price": "00",
+            "CTA": "Select Plan"
+        },
+        {
+            "id": 2,
+            "title": "Standard Plan",
+            "image": "",
+            "price": "85",
+            "CTA": "Select Plan"
+        },
+        {
+            "id": 3,
+            "title": "Pro Plan",
+            "image": "",
+            "price": "150",
+            "CTA": "Select Plan"
+        },
+        {
+            "id": 4,
+            "title": "Ultimate Plan",
+            "image": "",
+            "price": "210",
+            "CTA": "Select Plan"
+        }
+    ],
+
+    "blog": [
+        {
+            "id": 1,
+            "title": "How Litespeed Technology Works To Speed Up Your Site",
+            "image": "./images/blog1.jpg",
+            "tag": "Hosting",
+            "author": "Victor",
+            "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae",
+            "CTA": "Read More",
+            "Date": "October 2023"
+        },
+        {
+            "id": 2,
+            "title": "Give Your Website A New Look And Feel With Themes",
+            "image": "./images/blog2.jpg",
+            "tag": "Web Dev",
+            "author": "Tee",
+            "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae",
+            "CTA": "Read More",
+            "Date": "October 2023"
+        },
+        {
+            "id": 3,
+            "title": "The Role Of Domain Names In SEO World Explained",
+            "image": "./images/blog3.jpg",
+            "tag": "SEO",
+            "author": "Disee",
+            "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Iure nulla dolorem, voluptates molestiae",
+            "CTA": "Read More",
+            "Date": "October 2023"
+        }
+    ]
+}
